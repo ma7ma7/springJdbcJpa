@@ -6,3 +6,6 @@ CREATE TABLE person
 	date_birth TIMESTAMP,
 	PRIMARY KEY (id)
 );
+
+
+insert into person values (1001, 'mahmoud', 'rabat', sysdate());
