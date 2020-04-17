@@ -9,3 +9,5 @@ CREATE TABLE person
 
 
 insert into person values (1001, 'mahmoud', 'rabat', sysdate());
+insert into person values (1002, 'mahmoud', 'rabat', sysdate());
+insert into person values (1003, 'mahmoud', 'rabat', sysdate());
